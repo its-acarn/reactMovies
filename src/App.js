@@ -1,5 +1,5 @@
 import './App.css';
-import MovieContainer from './containers/MovieContainer.js'
+import MovieContainer from './containers/Container.js'
 
 function App() {
   return (
